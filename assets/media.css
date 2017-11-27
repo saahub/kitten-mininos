@@ -1,4 +1,6 @@
-@media  (min-width:600px) and (max-width: 1366px){
+
+
+@media  (min-width:992px) and (max-width: 1390px){
 	body {
 		background-image: url(img/sunny-day.jpg);
 		background-size: 100%;
@@ -19,7 +21,7 @@
 	}
 }
 
-@media  (min-width:481px) and (max-width: 599px){
+@media  (min-width:768px) and (max-width: 991px){
 	body {
 		background-image: url(img/night.jpg);
 		background-size: 100%;
@@ -40,7 +42,7 @@
 	}
 }
 
-@media  (min-width:5px) and (max-width: 480px){
+@media  (min-width:0px) and (max-width: 767px){
 	body {
 		background-image: url(img/dawn.png);
 		background-size: 100%;
@@ -48,8 +50,8 @@
 
 	}
 	.catThre{
-	margin-top: 170px;
-	margin-left: 70px;
+	margin-top: 200px;
+	margin-left: 100px;
 	}
 
 	.catTwo {
